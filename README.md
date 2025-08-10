@@ -98,19 +98,6 @@ The dashboard provides:
 
 ---
 
-## 8. Sample Dashboard Screenshot
 
-Below is a preview of the HR Data Analytics Dashboard created in Power BI:
 
-![HR Dashboard Screenshot](path_to_screenshot.png)
 
----
-
-## 9. License
-
-This project is licensed under the MIT License. You are free to use, modify, and distribute it with attribution.
-
----
-
-If you give me your **dashboard screenshot image**, I can prepare a version where it is already embedded and linked so it appears directly on your GitHub page.
-Do you want me to add that image for you?
